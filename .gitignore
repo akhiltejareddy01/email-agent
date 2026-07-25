@@ -1,0 +1,19 @@
+credentials.json
+token.json
+my_db/
+__pycache__/
+
+# Secrets — NEVER commit these
+credentials.json
+token.json
+.env
+
+# Local data
+seen.json
+my_db/
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
